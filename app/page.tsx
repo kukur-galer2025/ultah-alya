@@ -16,7 +16,7 @@ const messageSequence = [
   { text: "Ada yang sedang dirayakan hari ini.", icon: <Sparkles className="w-10 h-10 md:w-16 md:h-16 text-pink-300" /> },
   { text: "Momen spesial untukmu yang ke-21.", icon: <Stars className="w-10 h-10 md:w-16 md:h-16 text-pink-400" /> },
   { text: "Semangat terus ya kuliahnya, semoga lancar seminarnya.", icon: <BookOpen className="w-10 h-10 md:w-16 md:h-16 text-purple-300" /> },
-  { text: "Dan doa terbaik kami, semoga kamu selalu menjadi kebanggaan keluarga.", icon: <Users className="w-10 h-10 md:w-16 md:h-16 text-pink-300" /> },
+  { text: "Dan doa terbaik dariku, semoga kamu selalu menjadi kebanggaan keluarga.", icon: <Users className="w-10 h-10 md:w-16 md:h-16 text-pink-300" /> },
   { text: "Sudah siap untuk membuka hadiahmu?", icon: <Gift className="w-10 h-10 md:w-16 md:h-16 text-pink-400" /> }
 ];
 
@@ -199,7 +199,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-pink-400 blur-2xl opacity-30 transition-opacity duration-700" />
               <Gift className="w-20 h-20 md:w-32 md:h-32 text-pink-300 drop-shadow-[0_0_20px_rgba(244,114,182,0.4)]" />
             </motion.div>
-            <h1 className="mt-8 md:mt-10 text-base md:text-xl tracking-[0.2em] font-light text-pink-100 uppercase">Pintu Menuju Kebahagiaan...</h1>
+            <h1 className="mt-8 md:mt-10 text-base md:text-xl tracking-[0.2em] font-light text-pink-100 uppercase">Pintu Menuju Hari Ultahmu...</h1>
             <p className="mt-2 md:mt-3 text-pink-400/80 animate-pulse font-medium tracking-wide text-xs md:text-base">Ketuk layar untuk membuka</p>
           </motion.div>
         )}
@@ -308,7 +308,7 @@ export default function Home() {
                   Selamat ulang tahun yang ke-21. Semoga di babak baru kehidupan ini, setiap langkahmu selalu diiringi kebahagiaan, kesehatan, dan keberkahan yang berlimpah.
                 </p>
                 <p className="font-normal text-pink-100">
-                  Semangat terus kuliahnya, semoga dilancarkan acara seminarnya. Dan doa terbaik kami, semoga kamu selalu menjadi anak yang nurut sama abah dan ummi.
+                  Semangat terus kuliahnya, semoga dilancarkan acara seminarnya. Dan doa terbaik dariku, semoga kamu selalu menjadi anak yang nurut sama abah dan ummi.
                 </p>
                 <p>
                   Teruslah bersinar, kejar semua mimpimu, dan jadilah versi terbaik dari dirimu sendiri.
