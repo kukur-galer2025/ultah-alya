@@ -23,7 +23,7 @@ const messageSequence = [
 const polaroids = [
   { id: 1, src: "/photos/jaemin1.jpg", caption: "Sweet 21 ✨", rotate: -4, xOffset: -10, yOffset: -15 },
   { id: 2, src: "/photos/jaemin2.jpg", caption: "Happy Always 💖", rotate: 6, xOffset: 15, yOffset: 10 },
-  { id: 3, src: "/photos/jaemin3.jpg", caption: "Best Girl! 🎂", rotate: -8, xOffset: -15, yOffset: 15 },
+  { id: 3, src: "/photos/jaemin3.jpg", caption: "You Are Best! 🎂", rotate: -8, xOffset: -15, yOffset: 15 },
   { id: 4, src: "/photos/jaemin4.jpg", caption: "Keep Shining 🌟", rotate: 4, xOffset: 10, yOffset: -10 },
 ];
 
